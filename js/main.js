@@ -15,8 +15,8 @@
 
  loading = 0;
 
-//  DEBUG = false;
- DEBUG = true;
+ DEBUG = false;
+//  DEBUG = true;
 
  c.width = 800;
 
